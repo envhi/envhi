@@ -12,7 +12,7 @@
             Idade: 27
         </li>
         <li>
-            Localização: Sorocaba, Brazil
+            Localização: Sorocaba, São Paulo, Brasil
         </li>
         <li>
             Univesidade: Análise e Desenvolvimento de Sistemas - 4º semestre - Universidade Paulista
