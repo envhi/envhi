@@ -21,6 +21,7 @@
             Desenvolvedor Back-End
         </li>
     <ul>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=envhi&layout=compact&langs_count=16&theme=dracula">
 </div>
 </div>
 <h3> Fale comigo: </h3>
