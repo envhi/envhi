@@ -22,8 +22,12 @@
         </li>
     <ul>
         <div align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=envhi&layout=compact&langs_count=16&theme=dracula">
-        </div>
+  <a href="https://github.com/weygerus">
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=envhi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=envhi&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 </div>
 </div>
 <h3> Fale comigo: </h3>
