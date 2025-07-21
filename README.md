@@ -1,27 +1,4 @@
-<div align="center">
-    <h3>Hi, I'm Felipe 👋<h3>
-    <h3>Node Developer</h3>
-</div>
-    <h2> Sobre mim: </h2>
-<div>
-    <ul>
-        <li>
-            Nome: Felipe Fonseca
-        </li>
-        <li>
-            Idade: 27
-        </li>
-        <li>
-            Localização: Sorocaba, São Paulo, Brasil
-        </li>
-        <li>
-            Univesidade: Análise e Desenvolvimento de Sistemas - 4º semestre - Universidade Paulista
-        </li>
-        <li>
-            Desenvolvedor Back-End
-        </li>
-    <ul>
-       
+    
 <div align="center">
   <a href="https://github.com/envhi">
   <img height="200em" 
